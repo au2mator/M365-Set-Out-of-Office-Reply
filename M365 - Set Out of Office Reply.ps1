@@ -11,8 +11,8 @@
 # Last Update: 08.08.2021
 # Code Template V 1.4
 #
-# URL: 
-# Github: 
+# URL: https://au2mator.com/set-out-of-office-reply-microsoft-365-self-service-with-au2mator/?utm_source=github&utm_medium=social&utm_campaign=M365_SetOOF&utm_content=PS1
+# Github: https://click.au2mator.com/M365_SetOOF
 #################
 
 #region InputParamaters
